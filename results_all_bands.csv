@@ -1,0 +1,3 @@
+Model,Overall Accuracy,Kappa,F1 (macro)
+Random Forest,0.8824,0.8651,0.8767
+SVM,0.9239,0.9131,0.916

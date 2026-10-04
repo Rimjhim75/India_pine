@@ -1,0 +1,9 @@
+Features,Model,Overall Accuracy,Kappa,F1 (macro)
+MI-10,Random Forest,0.7717,0.7373,0.7129
+MI-20,Random Forest,0.7844,0.7519,0.691
+MI-30,Random Forest,0.7898,0.758,0.7365
+MI-50,Random Forest,0.8073,0.7782,0.7682
+MI-10,SVM,0.741,0.7005,0.6798
+MI-20,SVM,0.7732,0.7389,0.7638
+MI-30,SVM,0.8005,0.7709,0.7968
+MI-50,SVM,0.8385,0.815,0.8498

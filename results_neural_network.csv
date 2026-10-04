@@ -1,0 +1,4 @@
+Features,Model,Overall Accuracy,Kappa,F1 (macro)
+All 200 Bands,Neural Network (MLP),0.9068,0.8939,0.9124
+Evenly spaced 50,Neural Network (MLP),0.8893,0.8738,0.8939
+MI + redundancy 50,Neural Network (MLP),0.8356,0.8116,0.8111

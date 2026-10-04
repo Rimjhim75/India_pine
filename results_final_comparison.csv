@@ -1,0 +1,22 @@
+Features,Model,Overall Accuracy,Kappa,F1 (macro)
+All 200 bands,SVM,0.9239,0.9131,0.916
+Evenly spaced 100,SVM,0.9171,0.9052,0.9143
+MI + redundancy 100,SVM,0.9107,0.8981,0.9162
+Evenly spaced 100,Neural Network (MLP),0.9102,0.8976,0.8999
+All 200 bands,Neural Network (MLP),0.9068,0.8939,0.9124
+Evenly spaced 50,SVM,0.9039,0.8902,0.9073
+PCA-38,SVM,0.8956,0.8809,0.8889
+Evenly spaced 50,Neural Network (MLP),0.8893,0.8738,0.8939
+All 200 bands,Random Forest,0.8844,0.8674,0.8786
+PCA-38,Neural Network (MLP),0.881,0.8643,0.8678
+MI + redundancy 100,Neural Network (MLP),0.881,0.8641,0.8981
+Evenly spaced 100,Random Forest,0.879,0.8611,0.8822
+MI + redundancy 100,Random Forest,0.8751,0.8568,0.8757
+Evenly spaced 50,Random Forest,0.8702,0.8511,0.8632
+MI + redundancy 50,SVM,0.8673,0.8484,0.8781
+MI + redundancy 50,Random Forest,0.8507,0.8285,0.8304
+MI top-N 50,SVM,0.8385,0.815,0.8498
+MI + redundancy 50,Neural Network (MLP),0.8356,0.8116,0.8111
+MI top-N 50,Neural Network (MLP),0.82,0.7939,0.8003
+MI top-N 50,Random Forest,0.8054,0.776,0.7671
+PCA-38,Random Forest,0.8005,0.7691,0.7859
