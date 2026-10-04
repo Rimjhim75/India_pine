@@ -1,4 +1,7 @@
 # Hyperspectral Crop Classification – Indian Pines
+## Live Application
+
+[Launch the Streamlit App](https://indian-pines-hyperspectral.streamlit.app/)
 
 ## Overview
 
